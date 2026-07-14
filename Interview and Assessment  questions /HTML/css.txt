@@ -1,0 +1,4 @@
+1 what is the difference between id and class in css?
+2 what is color property and how do we use it in the css?
+3 How do we set the textcolor of a paragraph and background color of a div in css?
+4 What are CSS selectors and give some examples?
